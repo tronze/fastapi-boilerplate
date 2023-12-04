@@ -1,0 +1,13 @@
+# Jetbrain IDE 폴더/파일 제외
+.idea/
+.vscode/
+.venv/
+
+venv/
+__pycache__/
+*.sqlite3
+
+.pytest_cache/
+.cache
+.coverage
+htmlcov/
